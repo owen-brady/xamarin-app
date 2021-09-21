@@ -6,11 +6,6 @@
 /Users/owen.brady/Development/MyFirstXamarinApp/MyFirstXamarinApp/obj/Debug/netstandard2.0/MyFirstXamarinApp.GeneratedMSBuildEditorConfig.editorconfig
 /Users/owen.brady/Development/MyFirstXamarinApp/MyFirstXamarinApp/obj/Debug/netstandard2.0/App.xaml.g.cs
 /Users/owen.brady/Development/MyFirstXamarinApp/MyFirstXamarinApp/obj/Debug/netstandard2.0/AppShell.xaml.g.cs
-/Users/owen.brady/Development/MyFirstXamarinApp/MyFirstXamarinApp/obj/Debug/netstandard2.0/Views/AboutPage.xaml.g.cs
-/Users/owen.brady/Development/MyFirstXamarinApp/MyFirstXamarinApp/obj/Debug/netstandard2.0/Views/ItemDetailPage.xaml.g.cs
-/Users/owen.brady/Development/MyFirstXamarinApp/MyFirstXamarinApp/obj/Debug/netstandard2.0/Views/ItemsPage.xaml.g.cs
-/Users/owen.brady/Development/MyFirstXamarinApp/MyFirstXamarinApp/obj/Debug/netstandard2.0/Views/LoginPage.xaml.g.cs
-/Users/owen.brady/Development/MyFirstXamarinApp/MyFirstXamarinApp/obj/Debug/netstandard2.0/Views/NewItemPage.xaml.g.cs
 /Users/owen.brady/Development/MyFirstXamarinApp/MyFirstXamarinApp/obj/Debug/netstandard2.0/MyFirstXamarinApp.AssemblyInfoInputs.cache
 /Users/owen.brady/Development/MyFirstXamarinApp/MyFirstXamarinApp/obj/Debug/netstandard2.0/MyFirstXamarinApp.AssemblyInfo.cs
 /Users/owen.brady/Development/MyFirstXamarinApp/MyFirstXamarinApp/obj/Debug/netstandard2.0/MyFirstXamarinApp.csproj.CoreCompileInputs.cache
@@ -18,3 +13,4 @@
 /Users/owen.brady/Development/MyFirstXamarinApp/MyFirstXamarinApp/obj/Debug/netstandard2.0/MyFirstXamarinApp.dll
 /Users/owen.brady/Development/MyFirstXamarinApp/MyFirstXamarinApp/obj/Debug/netstandard2.0/ref/MyFirstXamarinApp.dll
 /Users/owen.brady/Development/MyFirstXamarinApp/MyFirstXamarinApp/obj/Debug/netstandard2.0/MyFirstXamarinApp.pdb
+/Users/owen.brady/Development/MyFirstXamarinApp/MyFirstXamarinApp/obj/Debug/netstandard2.0/Views/CoffeeEquipmentPage.xaml.g.cs
