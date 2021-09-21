@@ -11,7 +11,7 @@
 	--sim=/Users/owen.brady/Development/MyFirstXamarinApp/MyFirstXamarinApp.iOS/bin/iPhoneSimulator/Debug/device-builds/iphone13.3-14.5/MyFirstXamarinApp.iOS.app \
 	--executable=MyFirstXamarinApp.iOS \
 	--nolink \
-	--sdk=14.5 \
+	--sdk=15.0 \
 	--aot-options=-O=-float32 \
 	--abi=x86_64 \
 	--symbollist=/Users/owen.brady/Development/MyFirstXamarinApp/MyFirstXamarinApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone13.3-14.5/mtouch-symbols.list \

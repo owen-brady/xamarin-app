@@ -2,18 +2,24 @@
 
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="MyFirstXamarinApp.Views.CoffeeEquipmentPage">
+             x:Class="MyFirstXamarinApp.Views.CoffeeEquipmentPage"
+             xmlns:views="clr-namespace:MyFirstXamarinApp.Views;assembly=MyFirstXamarinApp"
+             xmlns:viewmodels="clr-namespace:MyFirstXamarinApp.ViewModels;assembly=MyFirstXamarinApp"
+             x:DataType="viewmodels:CoffeeEquipmentViewModel">
+    <ContentPage.BindingContext>
+        <viewmodels:CoffeeEquipmentViewModel/>
+    </ContentPage.BindingContext>
     <Grid RowDefinitions="*, Auto, Auto, *">
         <Label 
-            x:Name="LabelCount"
+            Text="{Binding CountDisplay}"
             Grid.Row="1"
-            Text="It's lit"
-            HorizontalTextAlignment="Center"/>
+            HorizontalTextAlignment="Center" 
+             />
         
         <Button 
             x:Name="ButtonClick"
             Grid.Row="2"
             Text="Click Me"
-            Clicked="ButtonClick_OnClicked"/>
+            Command="{Binding IncreaseCount}"/>
     </Grid>
 </ContentPage>
