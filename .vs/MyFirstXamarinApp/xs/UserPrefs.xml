@@ -1,25 +1,31 @@
-﻿<Properties StartupConfiguration="{75ADE429-41CC-4B72-B806-55A1C1955467}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MyFirstXamarinApp/AppShell.xaml">
+﻿<Properties StartupConfiguration="{1CD4BF27-317F-484A-A2AE-07401734F783}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyFirstXamarinApp.iOS/Main.cs">
     <Files>
-      <File FileName="MyFirstXamarinApp/AppShell.xaml" Line="1" Column="1" />
+      <File FileName="MyFirstXamarinApp/AppShell.xaml" Line="7" Column="1" />
+      <File FileName="MyFirstXamarinApp.iOS/Main.cs" Line="21" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MyFirstXamarinApp" expanded="True">
             <Node name="MyFirstXamarinApp" expanded="True">
-              <Node name="AppShell.xaml" expanded="True" selected="True" />
+              <Node name="AppShell.xaml" expanded="True" />
+            </Node>
+            <Node name="MyFirstXamarinApp.iOS" expanded="True">
+              <Node name="Main.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.MyFirstXamarinApp.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.MyFirstXamarinApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.279F95FB-AC74-4D64-AB12-22F37927E6B0" />
   <MonoDevelop.Ide.ItemProperties.MyFirstXamarinApp.Android FirstBuild="True" PreferredExecutionTarget="Android.SelectDevice" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.MyFirstXamarinApp FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

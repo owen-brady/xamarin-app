@@ -15,7 +15,7 @@
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
-          "/Users/owen.brady/.config/NuGet/NuGet.Config"
+          "/Users/owen.brady/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "xamarinios10"
@@ -69,7 +69,7 @@
         "outputPath": "/Users/owen.brady/Development/MyFirstXamarinApp/MyFirstXamarinApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/owen.brady/.config/NuGet/NuGet.Config"
+          "/Users/owen.brady/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
