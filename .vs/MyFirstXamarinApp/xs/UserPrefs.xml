@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{75ADE429-41CC-4B72-B806-55A1C1955467}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyFirstXamarinApp/AppShell.xaml">
+    <Files>
+      <File FileName="MyFirstXamarinApp/AppShell.xaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyFirstXamarinApp" expanded="True">
+            <Node name="MyFirstXamarinApp" expanded="True">
+              <Node name="AppShell.xaml" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MyFirstXamarinApp.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.MyFirstXamarinApp.Android FirstBuild="True" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MyFirstXamarinApp FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
